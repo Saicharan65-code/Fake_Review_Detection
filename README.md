@@ -1,11 +1,11 @@
-# Reddit Review Analysis Pipeline
+# Reddit Review Pipeline
 
 A data engineering pipeline for streaming and analyzing Reddit reviews using Kafka, ML, and real-time dashboard.
 
 ## Project Structure
 
 ```
-capstone/
+Fake_Review_Detection/
 ├── config/              # Configuration files
 │   ├── config.py       # Main configuration
 │   └── docker-compose.yml  # Docker services configuration
