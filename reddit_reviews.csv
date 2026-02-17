@@ -1,0 +1,7 @@
+author,text,score
+progammer,"Its basically wireless adb, but both the client (that app) and server (your phone) are in your phone",1
+bluaki,"Even without killing ADB installs completely, there's a lot that Google can do to effectively kill it as a viable method to install apps for non-developer use-cases in the future. These hypothetical measures can inconvenience developers too, but ultimately still would make development use-cases remain viable.
+
+Maybe Google could make any app installed through adb automatically uninstall after a certain amount of time passes, like a few weeks. Maybe they could require apps without a verified developer to be built with a key that only works for a single device (or any device associated with a single Google account or a single Google Workspace organization), meaning you can't share usable apks without being verified and instead need to have each user rebuild or at least re-sign. They could even make Android refuse to launch apps signed by unverified developers whenever adb is not connected (whether by USB or Wi-Fi).
+
+I don't know whether any of those examples are probable, but Google has full control to do whatever they want on this front and this situation demonstrates they're willing to wield that control to decide what apps you're allowed to install in what ways.",1
